@@ -1,0 +1,232 @@
+// footer social
+.footer-social2, .footer-social
+  margin-top: 20px
+  padding: 0 
+  list-style: none
+  li
+    display: inline-block
+    a 
+      display: block
+      margin-right: 10px
+    a i 
+      display: block
+      +xs-size(30px)
+      text-align: center
+      background: $color_primary
+      border-radius: 50%
+      color: #fff
+      font-size: 14px
+      &.fa-facebook,&.icon-facebook
+        background: #4969a8
+        &:hover
+          background: darken(#4969a8, 5%)
+      &.fa-twitter, &.icon-twitter
+        background: #2aa3ef
+        &:hover
+          background: darken(#2aa3ef, 5%)
+      &.g-pluse,&.fa-google-plus,&.icon-google-plus
+        background: #1178b3
+        &:hover
+          background: darken(#1178b3, 5%)
+      &.instragram,&.fa-instagram, &.icon-instagram
+        background: #db4c3f
+        &:hover
+          background: darken(#db4c3f, 5%)
+    &:last-child
+      a
+        margin-right: 0px
+
+
+
+.xs-sidenav
+  position: fixed
+  left: 0
+  top: 0
+  bottom: 0
+  width: 300px
+  z-index: 7
+  background-color: #152440
+  //height: 100vh
+  overflow-y: auto
+  color: #fff
+  padding:
+    top: 50px
+    left: 40px
+    right: 40px
+  +breakpoint(xl)
+    width: 240px
+    padding-left: 20px
+    padding-right: 20px
+  .xs-overlay
+    background-position: top
+    background-repeat: no-repeat
+    -webkit-background-size: contain
+    background-size: contain
+    opacity: 0.18
+    z-index: -1
+  +breakpoint(lg)
+    left: -300px
+    opacity: 0
+    visibility: hidden
+    width: 300px
+    transition: all 0.45s ease-in-out
+    &.xs-active
+      left: 0
+      visibility: visible
+      opacity: 1
+
+
+
+  .navbar-brand
+    margin-bottom: 80px
+
+  .BLO-social-list
+    margin-top: 70px
+    margin-bottom: 80px
+    padding-left: 0px
+    text-align: center
+    li
+      a i
+        +xs-size(36px)
+        +breakpoint(xl)
+          margin-right: 5px
+      &:last-child a
+        margin-right: 0px
+
+  .xs-copyright
+    text-align: center
+    a
+      color: $color_primary_home2
+.fixed-sidebar-nav  ul  ul
+  margin: 0
+  padding: 0
+  list-style: none
+.fixed-sidebar-nav
+  ul
+    margin: 0
+    padding: 0
+    list-style: none
+  li
+    display: block
+    position: relative
+    width: auto
+    > a
+      display: block
+      color: #fff
+      padding-bottom: 10px
+      padding-top: 10px
+      font-size: 16px
+      text-transform: capitalize
+      font-weight: 500
+      position: relative
+    &:menu-item-has-children
+      >a
+        padding-bottom: 0px
+    &.menu-item-has-children
+      > a:after
+        font-family: 'FontAwesome' !important
+        position: absolute
+        right: 0px
+        content: '\f105'
+        color: #fff
+        font-size: 16px
+        transition: all 0.24s ease-in-out
+      &.open
+        > a
+          color: $color_primary_home2
+          &:after
+            content: '\f107'
+            color: $color_primary_home2
+    &:hover
+      >a
+        color: $color_primary_home2
+        &:after
+          color: $color_primary_home2
+
+
+
+
+    >ul
+      padding-left: 1em
+      display: none
+      >li
+        >a
+          font-size: 14px
+          font-weight: 400
+          padding-top: 7.5px
+          padding-bottom: 7.5px
+          color: #fff
+          border-bottom: 1px solid rgba(#fff, 0.12)
+          display: block
+          text-transform: capitalize
+        &:hover
+          > a
+            color: $color_primary_home2
+            padding-left: 4px
+        &:last-child
+          > a
+            padding-bottom: 0px
+            border-bottom: none
+
+.xs-content
+  width: calc(100% - 300px)
+  margin-left: auto
+  transition: all 0.45s ease-in-out
+  +breakpoint(xl)
+    width: calc(100% - 240px)
+  +breakpoint(lg)
+    width: 100%
+    &.xs-active
+      width: calc(100% - 300px)
+
+
+
+.xs-side-nav-open
+  display: none
+  +breakpoint(lg)
+    display: block
+  .navbar
+    padding: 20px 0
+.open-sidemenu
+  width: 35px
+  cursor: pointer
+  position: relative
+  height: 21px
+  span
+    display: block
+    background: $color_primary_home2
+    height: 2px
+    border-radius: 0 999px
+    width: 35px
+    margin-bottom: 7px
+    transition: all 0.24s $ease-out-expo
+    &:nth-child(2)
+      width: 20px
+    &:nth-child(4)
+      position: absolute
+      right: 0
+      top: 50%
+      transform: translateY(-50%)
+      width: 15px
+      background: transparent
+  &:hover
+    span
+
+      &:nth-child(2)
+        margin-left: 10px
+        width: 15px
+  &.open-menu
+    span
+      &:nth-child(1)
+        transform: rotate(45deg) translateX(9px)
+        background: $color_primary_home2
+      &:nth-child(2)
+        margin-left: -20px
+        opacity: 0
+      &:nth-child(3)
+        transform: rotate(-45deg) translate(13px, -4px)
+        background: $color_primary_home2
+      &:nth-child(4)
+        margin-right: -20px
+        background: $color_primary_home2
+        opacity: 0

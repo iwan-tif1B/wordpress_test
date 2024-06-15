@@ -1,0 +1,86 @@
+.menu_border_bottom {
+  .elementor-row {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  }
+
+  &.ekit-sticky--active {
+    background: rgba(6, 22, 54, 0.56);
+
+    // .elementskit-menu-container {
+    //   height: 60px !important;
+    // }
+
+    .elementor-row {
+      border-bottom: 1px solid rgba(255, 255, 255, 0);
+    }
+
+    .sticky_logo {
+      img {
+        height: 40px;
+        width: auto;
+      }
+    }
+  }
+}
+
+.home_5_header {
+  &.ekit-sticky--effects {
+    background: rgba(#ff7d2a, 1);
+
+    // .elementskit-menu-container {
+    //   height: auto !important;
+    // }
+
+    .sticky_logo {
+      img {
+        height: 40px;
+        width: auto;
+      }
+    }
+  }
+}
+
+.home_6_header {
+  &.ekit-sticky--effects {
+    background: rgba(#3763eb, 1);
+
+    // .elementskit-menu-container {
+    //   height: 60px !important;
+    // }
+
+    .sticky_logo {
+      img {
+        height: 40px;
+        width: auto;
+      }
+    }
+  }
+}
+
+// animation
+.blo-danceTop {
+  animation-name: danceTop;
+  transform-origin: top;
+}
+
+@keyframes blo-danceTop {
+  16% {
+    transform: skew(-14deg);
+  }
+
+  33% {
+    transform: skew(12deg);
+  }
+
+  49% {
+    transform: skew(-8deg);
+  }
+
+  66% {
+    transform: skew(6deg);
+  }
+
+  83% {
+    transform: skew(-4deg);
+  }
+}

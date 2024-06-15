@@ -1,0 +1,19 @@
+=breakpoint($size)
+  @if $size == xss
+    @media (max-width: 320px)
+      @content
+  @if $size == xs
+    @media (max-width: 767.98px)
+      @content
+  @else if $size == md
+    @media (max-width: 991.98px)
+      @content
+  @else if $size == lg
+    @media (max-width: 1199.98px)
+      @content
+  @else if $size == xl
+    @media (max-width: 1600px)
+      @content
+  @else if $size == xxl
+    @media (max-width: 1900px)
+      @content

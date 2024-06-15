@@ -1,0 +1,19 @@
+@media (max-width: 767px){
+	.xs_hotspot .ekit-wid-con {
+		ekit-location-groups .ekit-location_indicator {
+			display: block;
+		}
+		.ekit-location-groups .ekit-map-image {
+			display: block;
+		}
+		.ekit-location-groups .ekit-location-wraper .ekit-location {
+			position: absolute;
+		}
+		.xs_overflow-hidden {
+			overflow: hidden !important;
+		}
+		.xs_hotspot .ekit-wid-con .ekit-location_outer {
+			display: none;
+		}
+	}
+}

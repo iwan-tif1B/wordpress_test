@@ -1,0 +1,12 @@
+[16-Apr-2024 22:11:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/mesinkas/public_html/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-admin/includes/class-theme-installer-skin.php on line 18
+[03-May-2024 10:44:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/mesinkas/public_html/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-admin/includes/class-theme-installer-skin.php on line 18
+[03-May-2024 10:44:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/mesinkas/public_html/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-admin/includes/class-theme-installer-skin.php on line 18

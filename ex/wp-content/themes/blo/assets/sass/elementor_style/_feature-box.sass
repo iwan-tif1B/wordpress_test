@@ -1,0 +1,25 @@
+.ekit_feature_shadow
+  position: relative
+  z-index: 1
+  &:after
+    position: absolute
+    left: 50%
+    bottom: 0
+    width: calc(100% - 20px)
+    height: 10px
+    background-color: rgb(248, 247, 249)
+    transform: translateX(-50%) translateY(10px)
+    content: ''
+    +breakpoint(xs)
+      display: none
+  &:before
+    position: absolute
+    left: 50%
+    bottom: 0
+    width: calc(100% - 40px)
+    height: 10px
+    background-color: rgb(234, 234, 239)
+    transform: translateX(-50%) translateY(20px)
+    content: ''
+    +breakpoint(xs)
+      display: none

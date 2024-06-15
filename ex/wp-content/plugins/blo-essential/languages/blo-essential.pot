@@ -1,0 +1,993 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: BLO Essentials\n"
+"POT-Creation-Date: 2019-09-09 12:39+0600\n"
+"PO-Revision-Date: 2019-09-09 12:39+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: blo-essential.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/helper.php:5
+msgid "Share:"
+msgstr ""
+
+#: includes/post-type/post-class.php:30 includes/post-type/post-class.php:81
+msgid "Add New "
+msgstr ""
+
+#: includes/post-type/post-class.php:31 includes/post-type/post-class.php:82
+msgid "Edit "
+msgstr ""
+
+#: includes/post-type/post-class.php:32 includes/post-type/post-class.php:80
+msgid "New "
+msgstr ""
+
+#: includes/post-type/post-class.php:33
+msgid "View "
+msgstr ""
+
+#: includes/post-type/post-class.php:34 includes/post-type/post-class.php:85
+msgid "Search "
+msgstr ""
+
+#: includes/post-type/post-class.php:35 includes/post-type/post-class.php:36
+msgid "No "
+msgstr ""
+
+#: includes/post-type/post-class.php:37 includes/post-type/post-class.php:88
+#: includes/post-type/post-class.php:90
+msgid "Parent "
+msgstr ""
+
+#: includes/post-type/post-class.php:83
+msgid "Update "
+msgstr ""
+
+#: includes/post-type/post-class.php:84
+msgid "Add or remove "
+msgstr ""
+
+#: includes/post-type/post-class.php:86
+msgid "Popular "
+msgstr ""
+
+#: includes/post-type/post-class.php:87
+msgid "All "
+msgstr ""
+
+#: includes/post-type/post-class.php:89
+msgid "Choose from the most used "
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:12
+#: includes/widgets/footer-address/widget-class.php:15
+msgid "BLO footer address"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:119
+msgid "Footer address"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:155
+#: includes/widgets/instagram/widget-class.php:86
+#: includes/widgets/recent-case-study/widget-class.php:97
+#: includes/widgets/recent-post/widget-class.php:101
+#: includes/widgets/social/widget-class.php:285
+#: includes/widgets/twitter-feed/class-widget-twitter-feed.php:77
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:159
+msgid "Message"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:165
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:171
+msgid "Mobile:"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:177
+msgid "Media icon:"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:183
+msgid "Map icon:"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:189
+msgid "Map button:"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:15
+msgid "BLO instagram"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:69
+msgid "Instagram"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:92
+msgid "Log in and get my Access Token and User ID"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:97
+msgid "Access token:"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:102
+msgid "User ID:"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:107
+msgid "Count:"
+msgstr ""
+
+#: includes/widgets/recent-case-study/widget-class.php:11
+#: includes/widgets/recent-case-study/widget-class.php:14
+msgid "Recent case study"
+msgstr ""
+
+#: includes/widgets/recent-case-study/widget-class.php:67
+#: includes/widgets/recent-post/widget-class.php:71
+msgid "No post avainable"
+msgstr ""
+
+#: includes/widgets/recent-case-study/widget-class.php:88
+msgid "Latest Updates"
+msgstr ""
+
+#: includes/widgets/recent-case-study/widget-class.php:101
+#: includes/widgets/recent-post/widget-class.php:105
+msgid "Number of posts:"
+msgstr ""
+
+#: includes/widgets/recent-post/widget-class.php:11
+msgid "Recent post with thumbnail"
+msgstr ""
+
+#: includes/widgets/recent-post/widget-class.php:14
+msgid "BLO recent post"
+msgstr ""
+
+#: includes/widgets/recent-post/widget-class.php:55
+msgid "thumb"
+msgstr ""
+
+#: includes/widgets/recent-post/widget-class.php:92
+msgid "Recent posts"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:10
+msgid "BLO Social"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:13
+msgid "BLO social"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:203
+msgid "Social"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:289
+msgid "Facebook:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:295
+msgid "Twitter:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:301
+msgid "Google Plus:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:307
+msgid "Pinterest:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:313
+msgid "Instagram:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:319
+msgid "Linkedin:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:325
+msgid "behance:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:331
+msgid "flickr:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:337
+msgid "github:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:343
+msgid "soundcloud:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:349
+msgid "skype:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:356
+msgid "stumbleupon:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:362
+msgid "tumblr:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:368
+msgid "vimeo:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:374
+msgid "vine:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:380
+msgid "vk:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:386
+msgid "xing:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:392
+msgid "yelp:"
+msgstr ""
+
+#: includes/widgets/twitter-feed/class-widget-twitter-feed.php:10
+#: includes/widgets/twitter-feed/class-widget-twitter-feed.php:13
+msgid "BLO twitter feed"
+msgstr ""
+
+#: includes/widgets/twitter-feed/class-widget-twitter-feed.php:25
+#: includes/widgets/twitter-feed/class-widget-twitter-feed.php:66
+msgid "Loading!"
+msgstr ""
+
+#: includes/widgets/twitter-feed/class-widget-twitter-feed.php:62
+msgid "Twitter feed"
+msgstr ""
+
+#: includes/widgets/twitter-feed/class-widget-twitter-feed.php:81
+msgid "Username:"
+msgstr ""
+
+#: includes/widgets/twitter-feed/class-widget-twitter-feed.php:87
+msgid "Loading text:"
+msgstr ""
+
+#: modules/custom-css/init.php:43
+msgid "Blo Custom CSS"
+msgstr ""
+
+#: modules/custom-css/init.php:51
+msgid "Add your own custom CSS here"
+msgstr ""
+
+#: modules/custom-css/init.php:60
+msgid "Custom CSS"
+msgstr ""
+
+#: modules/custom-css/init.php:71
+msgid ""
+"Use \"selector\" to target wrapper element. Examples:<br>selector {color: "
+"red;} // For main element<br>selector .child-element {margin: 10px;} // For "
+"child element<br>.my-class {text-align: center;} // Or use any custom "
+"selector"
+msgstr ""
+
+#: modules/elements/chart/chart-handler.php:11
+#: modules/elements/chart/chart.php:15 modules/elements/chart/chart.php:405
+msgid "Chart"
+msgstr ""
+
+#: modules/elements/chart/chart.php:32
+msgid "Data "
+msgstr ""
+
+#: modules/elements/chart/chart.php:41
+msgid "Name"
+msgstr ""
+
+#: modules/elements/chart/chart.php:43 modules/elements/chart/chart.php:57
+msgid "January"
+msgstr ""
+
+#: modules/elements/chart/chart.php:54 modules/elements/chart/chart.php:478
+msgid "Categories"
+msgstr ""
+
+#: modules/elements/chart/chart.php:58
+msgid "February"
+msgstr ""
+
+#: modules/elements/chart/chart.php:59
+msgid "March"
+msgstr ""
+
+#: modules/elements/chart/chart.php:73 modules/elements/chart/chart.php:187
+msgid "Label"
+msgstr ""
+
+#: modules/elements/chart/chart.php:75 modules/elements/chart/chart.php:170
+#: modules/elements/chart/chart.php:189 modules/elements/chart/chart.php:278
+msgid "Label #1"
+msgstr ""
+
+#: modules/elements/chart/chart.php:84 modules/elements/chart/chart.php:196
+msgid "Data"
+msgstr ""
+
+#: modules/elements/chart/chart.php:88
+msgid "Enter data values by \",\" separated(1). Example: 2,4,8,16,32 etc"
+msgstr ""
+
+#: modules/elements/chart/chart.php:104 modules/elements/chart/chart.php:212
+#: modules/parallax/extend-controls.php:367
+msgid "Normal"
+msgstr ""
+
+#: modules/elements/chart/chart.php:110 modules/elements/chart/chart.php:137
+#: modules/elements/chart/chart.php:218 modules/elements/chart/chart.php:245
+#: modules/elements/chart/chart.php:654
+#: modules/elements/hotspot/hotspot.php:355
+msgid "Background Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:119 modules/elements/chart/chart.php:145
+#: modules/elements/chart/chart.php:227 modules/elements/chart/chart.php:253
+msgid "Border Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:132 modules/elements/chart/chart.php:240
+msgid "Hover"
+msgstr ""
+
+#: modules/elements/chart/chart.php:157 modules/elements/chart/chart.php:265
+#: modules/elements/chart/chart.php:465
+msgid "Border Width"
+msgstr ""
+
+#: modules/elements/chart/chart.php:167 modules/elements/chart/chart.php:275
+msgid "Set Data"
+msgstr ""
+
+#: modules/elements/chart/chart.php:171 modules/elements/chart/chart.php:279
+msgid "Label #2"
+msgstr ""
+
+#: modules/elements/chart/chart.php:172 modules/elements/chart/chart.php:280
+msgid "Label #3"
+msgstr ""
+
+#: modules/elements/chart/chart.php:297
+msgid "Settings "
+msgstr ""
+
+#: modules/elements/chart/chart.php:305
+msgid "Chart Styles"
+msgstr ""
+
+#: modules/elements/chart/chart.php:309
+msgid "Bar (Vertical)"
+msgstr ""
+
+#: modules/elements/chart/chart.php:310
+msgid "Bar (Horozontal)"
+msgstr ""
+
+#: modules/elements/chart/chart.php:311
+msgid "Line"
+msgstr ""
+
+#: modules/elements/chart/chart.php:312
+msgid "Radar"
+msgstr ""
+
+#: modules/elements/chart/chart.php:313
+msgid "Doughnut"
+msgstr ""
+
+#: modules/elements/chart/chart.php:314
+msgid "Pie"
+msgstr ""
+
+#: modules/elements/chart/chart.php:315
+msgid "Polar Area"
+msgstr ""
+
+#: modules/elements/chart/chart.php:325
+msgid "Show Title"
+msgstr ""
+
+#: modules/elements/chart/chart.php:334 modules/elements/chart/chart.php:739
+#: modules/elements/hotspot/hotspot.php:50
+msgid "Title"
+msgstr ""
+
+#: modules/elements/chart/chart.php:347
+msgid "Grid Lines"
+msgstr ""
+
+#: modules/elements/chart/chart.php:356
+msgid "Grid Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:367
+msgid "Enable Label"
+msgstr ""
+
+#: modules/elements/chart/chart.php:378
+msgid "Enable Legends"
+msgstr ""
+
+#: modules/elements/chart/chart.php:388
+msgid "Show Tooltip"
+msgstr ""
+
+#: modules/elements/chart/chart.php:414 modules/elements/chart/chart.php:594
+msgid "Point Style"
+msgstr ""
+
+#: modules/elements/chart/chart.php:432
+msgid "Stepped Line"
+msgstr ""
+
+#: modules/elements/chart/chart.php:441
+msgid "Tension"
+msgstr ""
+
+#: modules/elements/chart/chart.php:451
+msgid "Fill"
+msgstr ""
+
+#: modules/elements/chart/chart.php:486 modules/elements/chart/chart.php:546
+#: modules/elements/chart/chart.php:759
+msgid "Font Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:495 modules/elements/chart/chart.php:555
+#: modules/elements/chart/chart.php:747
+msgid "Font Size"
+msgstr ""
+
+#: modules/elements/chart/chart.php:508 modules/elements/chart/chart.php:568
+#: modules/elements/chart/chart.php:768
+msgid "Font Style"
+msgstr ""
+
+#: modules/elements/chart/chart.php:521 modules/elements/chart/chart.php:581
+#: modules/elements/chart/chart.php:808
+msgid "Padding"
+msgstr ""
+
+#: modules/elements/chart/chart.php:538
+msgid "Legend"
+msgstr ""
+
+#: modules/elements/chart/chart.php:603
+msgid "Box Width"
+msgstr ""
+
+#: modules/elements/chart/chart.php:616 modules/elements/chart/chart.php:781
+msgid "Position"
+msgstr ""
+
+#: modules/elements/chart/chart.php:621 modules/elements/chart/chart.php:786
+#: modules/elements/hotspot/hotspot.php:79
+msgid "Left"
+msgstr ""
+
+#: modules/elements/chart/chart.php:625 modules/elements/chart/chart.php:790
+#: modules/elements/hotspot/hotspot.php:105
+#: modules/sticky-content/extend-controls.php:28
+#: modules/sticky-content/module.php:41
+msgid "Top"
+msgstr ""
+
+#: modules/elements/chart/chart.php:629 modules/elements/chart/chart.php:794
+#: modules/elements/hotspot/hotspot.php:170
+#: modules/sticky-content/extend-controls.php:29
+#: modules/sticky-content/module.php:42
+msgid "Bottom"
+msgstr ""
+
+#: modules/elements/chart/chart.php:633 modules/elements/chart/chart.php:798
+#: modules/elements/hotspot/hotspot.php:144
+msgid "Right"
+msgstr ""
+
+#: modules/elements/chart/chart.php:646
+msgid "Tooltip"
+msgstr ""
+
+#: modules/elements/chart/chart.php:664
+msgid "Title Font Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:673
+msgid "Title Font Size"
+msgstr ""
+
+#: modules/elements/chart/chart.php:686
+msgid "Title Font Style"
+msgstr ""
+
+#: modules/elements/chart/chart.php:700
+msgid "Body Font Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:709
+msgid "Body Font Size"
+msgstr ""
+
+#: modules/elements/chart/chart.php:722
+msgid "Body Font Style"
+msgstr ""
+
+#: modules/elements/chart/chart.php:820
+msgid "Line Height"
+msgstr ""
+
+#: modules/elements/chart/chart.php:836
+#: modules/parallax/extend-controls.php:276
+msgid "Animation"
+msgstr ""
+
+#: modules/elements/chart/chart.php:844
+msgid "Duration"
+msgstr ""
+
+#: modules/elements/chart/chart.php:857
+msgid "Style"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:15
+#: modules/elements/hotspot/hotspot.php:30
+msgid "Hotspot"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:36
+msgid "Background Map Image"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:52
+#: modules/elements/hotspot/hotspot.php:202
+#: modules/elements/hotspot/hotspot.php:215
+#: modules/elements/hotspot/hotspot.php:228
+#: modules/elements/hotspot/hotspot.php:241
+#: modules/elements/hotspot/hotspot.php:254
+#: modules/elements/hotspot/hotspot.php:267
+#: modules/elements/hotspot/hotspot.php:280
+#: modules/elements/hotspot/hotspot.php:293
+msgid "South Carolina Data Center"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:60
+#: modules/elements/hotspot/hotspot.php:63
+msgid "Address"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:70
+#: modules/parallax/extend-controls.php:96
+msgid "Choose Image"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:132
+msgid "Right and bottom?"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:134
+#: modules/parallax/extend-controls.php:28
+#: modules/parallax/extend-controls.php:53
+msgid "Show"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:135
+#: modules/parallax/extend-controls.php:29
+#: modules/parallax/extend-controls.php:54
+msgid "Hide"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:196
+msgid "Repeater List"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:203
+#: modules/elements/hotspot/hotspot.php:216
+#: modules/elements/hotspot/hotspot.php:229
+#: modules/elements/hotspot/hotspot.php:242
+#: modules/elements/hotspot/hotspot.php:255
+#: modules/elements/hotspot/hotspot.php:268
+#: modules/elements/hotspot/hotspot.php:281
+#: modules/elements/hotspot/hotspot.php:294
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:320
+msgid "Content"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:326
+msgid "Text Color"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:338
+msgid "Background"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:348
+msgid "Indicatior"
+msgstr ""
+
+#: modules/elements/hotspot/hotspot.php:365
+#: modules/elements/hotspot/hotspot.php:384
+msgid "Point Color"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:19
+msgid "Parallax Effects"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:26
+msgid "Background Image Parallax"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:36
+#: modules/parallax/extend-controls.php:382
+msgid "Speed"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:51
+msgid "Multi Item Parallax"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:60
+msgid "Effect Type"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:64
+msgid "Css Animation"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:65
+msgid "Mouse Move"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:66
+msgid "On Scroll"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:67
+msgid "Parallax Tilt"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:74
+msgid "Item source"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:106
+msgid "Choose Shape"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:110
+msgid "Shape 1"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:111
+msgid "Shape 2"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:112
+msgid "Shape 3"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:113
+msgid "Shape 4"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:114
+msgid "Shape 5"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:115
+msgid "Shape 6"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:116
+msgid "Shape 7"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:117
+msgid "Shape 8"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:118
+msgid "Shape 9"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:119
+msgid "Shape 10"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:120
+msgid "Shape 11"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:121
+msgid "Shape 12"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:122
+msgid "Shape 13"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:123
+msgid "Shape 14"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:134
+msgid "Color"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:148
+msgid "Width"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:152
+msgid "Auto"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:153
+msgid "Custom"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:162
+msgid "Custom Width"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:198
+msgid "Rotate"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:221
+msgid "Position X (%)"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:248
+msgid "Position Y (%)"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:309
+msgid "Opacity"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:310
+msgid "Opacity will be (0-1), default value 1"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:326
+msgid "Animation speed"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:345
+msgid "Animation Iteration Count"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:349
+msgid "Infinite"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:350
+msgid "Unset"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:363
+msgid "Animation Direction"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:368
+msgid "Reverse"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:369
+msgid "Alternate"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:384
+msgid "100"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:393
+msgid "Parallax style"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:397
+#: modules/parallax/extend-controls.php:487
+msgid "X axis"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:398
+#: modules/parallax/extend-controls.php:488
+msgid "Y axis"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:399
+msgid "rotate"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:400
+msgid "rotateX"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:401
+msgid "rotateY"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:402
+msgid "scale"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:403
+msgid "scaleX"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:404
+msgid "scaleY"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:413
+msgid "Parallax Transition "
+msgstr ""
+
+#: modules/parallax/extend-controls.php:414
+msgid ""
+"X, Y and Z Axis will be pixels, Rotate will be degrees (0-180), scale will "
+"be ratio"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:424
+msgid "Smoothness"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:425
+msgid ""
+"factor that slowdown the animation, the more the smoothier (default: 700)"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:438
+msgid "Offset Top"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:439
+#: modules/parallax/extend-controls.php:450
+msgid "default: 0; when the element is visible"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:449
+msgid "Offset Bottom"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:460
+msgid "MaxTilt"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:470
+msgid "Image Scale"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:471
+msgid "2 = 200%, 1.5 = 150%, etc.. Default 1"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:481
+msgid "Disable Axis"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:482
+msgid "What axis should be disabled. Can be X or Y."
+msgstr ""
+
+#: modules/parallax/extend-controls.php:486
+#: modules/sticky-content/extend-controls.php:27
+#: modules/sticky-content/module.php:40
+msgid "None"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:498
+msgid "Z-index"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:500
+msgid "2"
+msgstr ""
+
+#: modules/parallax/extend-controls.php:509
+msgid "Parallax"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:16
+msgid "Sticky Effect"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:24
+#: modules/sticky-content/module.php:37
+msgid "Sticky"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:39
+#: modules/sticky-content/module.php:52
+msgid "Sticky On"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:45
+#: modules/sticky-content/module.php:58
+msgid "Desktop"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:46
+#: modules/sticky-content/module.php:59
+msgid "Tablet"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:47
+#: modules/sticky-content/module.php:60
+msgid "Mobile"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:60
+msgid "Sticky Offset"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:78
+msgid "Effect Offset"
+msgstr ""
+
+#: modules/sticky-content/module.php:29
+msgid "Scrolling Effect"
+msgstr ""
+
+#: modules/sticky-content/module.php:73
+msgid "Offset"
+msgstr ""
+
+#: modules/sticky-content/module.php:90
+msgid "Effects Offset"
+msgstr ""
+
+#: modules/sticky-content/module.php:108
+msgid "Stay In Column"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BLO Essentials"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This is a required plugin for BLO theme."
+msgstr ""

@@ -1,0 +1,93 @@
+.read-more-button-link {
+    color: #fff;
+    transition: all 0.24s ease-in-out;
+    opacity: 0;
+    left: 0;
+    visibility: hidden;
+    font-size: 14px;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 20px 30px;
+    /* height: 100%; */
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.xs-case-nav-slider li.nav-item.active a.read-more-button-link {
+  visibility: visible;
+  opacity: 1;
+}
+.tab_read_more_button_click_style.nav-item.active .nav-link {
+  opacity: 0;
+  visibility: hidden;
+}
+.tab_read_more_button_click_style .nav-link {
+  padding: 0;
+}
+.xs-case-nav-slider a.read-more-button-link > i {
+  padding-right: 5px;
+  display: inline-block;
+}
+.xs-case-nav-slider a.read-more-button-link:hover {
+  color: #FFFFFF;
+}
+.nav-link-title {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Merriweather", serif;
+}
+.tab_read_more_button_click_style {
+  cursor: pointer;
+}
+@media (min-width: 992px) {
+  .read-more-button-link {
+    height: 100%;
+  }
+  .xs-case-nav-slider a.read-more-button-link {
+    position: absolute;
+  }
+}
+@media (max-width: 991px) {
+  .xs-case-nav-slider a.read-more-button-link {
+    display: none;
+  }
+  .tab_read_more_button_click_style {
+    padding: 0;
+  }
+  .tab_read_more_button_click_style.nav-item.active a.read-more-button-link {
+    display: block;
+  }
+  .tab_read_more_button_click_style .nav-link,
+  .xs-case-nav-slider a.read-more-button-link {
+    padding: 10px 20px;
+  }
+  .tab_read_more_button_click_style.nav-item.active .nav-link {
+    display: none;
+  }
+}
+
+// .xs-case-nav-slider .nav-item:not(.tab_read_more_button_click_style) a,
+// .tab_read_more_button_click_style {
+//   background: rgba(39, 50, 114, 0.25);
+//   position: relative;
+//   padding: 20px 30px;
+//   text-align: left;
+//   display: block;
+// }
+
+// @media (max-width: 1199.98px) {
+//     .xs-case-nav-slider .nav-item:not(.tab_read_more_button_click_style) a {
+//       padding: 20px 15px;
+//     }
+//   }
+
+//   @media (max-width: 991.98px) {
+//     .xs-case-nav-slider .nav-item:not(.tab_read_more_button_click_style) a {
+//       padding: 10px 20px;
+//     }
+//   }

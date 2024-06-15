@@ -1,0 +1,168 @@
+[06-Feb-2024 03:47:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Feb-2024 05:42:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Feb-2024 08:34:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Feb-2024 19:42:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Feb-2024 03:10:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Feb-2024 00:44:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Feb-2024 01:42:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Feb-2024 07:15:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Feb-2024 16:10:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Feb-2024 04:02:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Feb-2024 00:01:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Feb-2024 10:06:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Feb-2024 12:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Feb-2024 12:36:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Feb-2024 05:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Feb-2024 13:12:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Feb-2024 19:36:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Feb-2024 14:20:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Feb-2024 03:13:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Feb-2024 04:38:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Feb-2024 10:22:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Feb-2024 07:23:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Feb-2024 11:07:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Feb-2024 10:06:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Feb-2024 10:09:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Feb-2024 22:52:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Feb-2024 07:52:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Feb-2024 16:57:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Feb-2024 20:49:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Feb-2024 21:51:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Feb-2024 08:06:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Feb-2024 21:25:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Feb-2024 02:44:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Feb-2024 10:30:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Feb-2024 13:03:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Mar-2024 01:48:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Mar-2024 00:02:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Mar-2024 14:30:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Mar-2024 19:14:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Mar-2024 21:33:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Apr-2024 11:54:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Apr-2024 04:39:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

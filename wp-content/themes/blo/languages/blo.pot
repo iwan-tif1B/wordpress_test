@@ -1,0 +1,2029 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Blo\n"
+"POT-Creation-Date: 2019-07-30 19:37+0600\n"
+"PO-Revision-Date: 2019-07-30 19:36+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#: 404.php:22
+msgid "Try using the button below to go to main page of the site"
+msgstr ""
+
+#: 404.php:23
+msgid "Back to Home Page"
+msgstr ""
+
+#: comments.php:25
+msgid "Comments "
+msgstr ""
+
+#: comments.php:27
+msgid "Comment "
+msgstr ""
+
+#: comments.php:38 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:71
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:74
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:102
+msgid "Enter Name"
+msgstr ""
+
+#: comments.php:103
+msgid "Enter Email"
+msgstr ""
+
+#: comments.php:104
+msgid "Enter Website"
+msgstr ""
+
+#: comments.php:119
+msgid "Enter Comments"
+msgstr ""
+
+#: comments.php:132
+msgid "You must be"
+msgstr ""
+
+#: comments.php:132
+msgid "logged in"
+msgstr ""
+
+#: comments.php:132
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:137
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:137
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:137
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:142
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:143
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:144
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:145
+msgid "Post Comment"
+msgstr ""
+
+#: components/editor/elementor/controls/icon.php:1209
+#: components/editor/elementor/controls/icon.php:1211
+msgid "Select Icon"
+msgstr ""
+
+#: components/editor/elementor/elementor.php:85 components/theme/manifest.php:5
+msgid "blo"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:15
+msgid "BLO Carrer Block"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:31
+msgid "Carrer Block"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:39
+msgid "Carrer Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:42
+msgid "Account Management Team Leader"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:50
+msgid "Carrer Tag"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:52
+msgid "Ongoing"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:60
+#: components/editor/elementor/widgets/blo-career-block.php:119
+msgid "Url"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:62
+#: components/editor/elementor/widgets/blo-career-block.php:121
+#: components/editor/elementor/widgets/blo-team.php:104
+msgid "https://your-link.com"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:76
+#: components/editor/elementor/widgets/blo-career-block.php:149
+#: components/editor/elementor/widgets/blo-career-block.php:151
+#: components/editor/elementor/widgets/blo-career-block.php:271
+msgid "Location"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:79
+msgid "New York, USA"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:87
+msgid "Job Type"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:90
+msgid " Full Time"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:102
+#: components/editor/elementor/widgets/blo-career-block.php:335
+msgid "Button"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:110
+msgid "Label"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:112
+msgid "APPLY NOW"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:141
+msgid "Setting"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:159
+#: components/editor/elementor/widgets/blo-career-block.php:161
+#: components/editor/elementor/widgets/blo-career-block.php:303
+#: core/libs/class-tgm-plugin-activation.php:2545
+msgid "Type"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:174
+#: components/editor/elementor/widgets/blo-feature-box.php:40
+#: components/editor/elementor/widgets/blo-team.php:212
+#: components/editor/elementor/widgets/working-process.php:41
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:69
+#: components/theme/options/customizer/options-footer.php:57
+#: components/theme/options/customizer/options-general.php:28
+msgid "Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:183
+#: components/editor/elementor/widgets/blo-team.php:221
+msgid "Title Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:195
+#: components/editor/elementor/widgets/blo-career-block.php:245
+#: components/editor/elementor/widgets/blo-career-block.php:292
+#: components/editor/elementor/widgets/blo-career-block.php:324
+#: components/editor/elementor/widgets/blo-career-block.php:438
+#: components/editor/elementor/widgets/blo-case-study.php:291
+#: components/editor/elementor/widgets/blo-case-study.php:331
+#: components/editor/elementor/widgets/blo-case-study.php:393
+#: components/editor/elementor/widgets/blo-case-study.php:492
+#: components/editor/elementor/widgets/blo-team.php:233
+#: components/editor/elementor/widgets/blo-team.php:262
+#: components/editor/elementor/widgets/video-popup.php:74
+#: components/editor/elementor/widgets/working-process.php:120
+msgid "Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:204
+msgid "Tag"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:213
+#: components/editor/elementor/widgets/blo-career-block.php:280
+#: components/editor/elementor/widgets/blo-career-block.php:312
+#: components/editor/elementor/widgets/blo-case-study.php:618
+#: components/editor/elementor/widgets/blo-case-study.php:639
+#: components/editor/elementor/widgets/blo-feature-box.php:278
+msgid "Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:224
+#: components/editor/elementor/widgets/blo-career-block.php:366
+#: components/editor/elementor/widgets/blo-career-block.php:404
+#: components/editor/elementor/widgets/blo-career-block.php:465
+#: components/editor/elementor/widgets/blo-case-study.php:301
+#: components/editor/elementor/widgets/blo-case-study.php:341
+#: components/editor/elementor/widgets/blo-case-study.php:525
+#: components/editor/elementor/widgets/blo-case-study.php:558
+#: components/editor/elementor/widgets/blo-case-study.php:732
+#: components/editor/elementor/widgets/working-process.php:151
+msgid "Background"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:236
+#: components/editor/elementor/widgets/blo-career-block.php:477
+#: components/editor/elementor/widgets/blo-case-study.php:675
+#: components/editor/elementor/widgets/blo-case-study.php:700
+#: components/editor/elementor/widgets/blo-case-study.php:742
+msgid "Box Shadow"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:252
+#: components/editor/elementor/widgets/blo-career-block.php:426
+#: components/editor/elementor/widgets/blo-career-block.php:453
+#: components/editor/elementor/widgets/blo-case-study.php:211
+#: components/editor/elementor/widgets/blo-case-study.php:477
+#: components/editor/elementor/widgets/blo-case-study.php:716
+#: components/editor/elementor/widgets/blo-feature-box.php:159
+msgid "Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:348
+#: components/editor/elementor/widgets/blo-case-study.php:272
+#: components/editor/elementor/widgets/blo-case-study.php:502
+#: components/editor/elementor/widgets/blo-case-study.php:611
+#: components/editor/elementor/widgets/blo-team.php:122
+msgid "Normal"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:355
+#: components/editor/elementor/widgets/blo-career-block.php:393
+#: components/editor/elementor/widgets/blo-case-study.php:509
+#: components/editor/elementor/widgets/blo-case-study.php:544
+msgid "Text Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:378
+#: components/editor/elementor/widgets/blo-career-block.php:416
+#: components/editor/elementor/widgets/blo-case-study.php:227
+#: components/editor/elementor/widgets/working-process.php:163
+msgid "Border"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:387
+#: components/editor/elementor/widgets/blo-case-study.php:537
+#: components/editor/elementor/widgets/blo-case-study.php:633
+#: components/editor/elementor/widgets/blo-team.php:152
+msgid "Hover"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-career-block.php:446
+msgid "Container Box"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:15
+msgid "BLO Case Study"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:30
+msgid "blo case study"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:37
+msgid "Choose Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:42
+msgid "Tab"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:48
+msgid "Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:54
+msgid "Grid View"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:60
+msgid "Grid View Style 2"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:71
+msgid "Category"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:82
+msgid "Case count"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:84
+msgid "4"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:91
+msgid "Button label"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:93
+msgid "Read More"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:94
+msgid "Read more"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:102
+msgid "Button Icons"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:111
+msgid "Tab Background Icon"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:126
+#: components/editor/elementor/widgets/blo-feature-box.php:75
+#: components/editor/elementor/widgets/blo-team.php:31
+msgid "Content"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:136
+#: components/editor/elementor/widgets/working-process.php:107
+#: components/theme/options/customizer/options-style.php:28
+msgid "Title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:154
+#: components/editor/elementor/widgets/blo-feature-box.php:85
+msgid "Title Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:162
+msgid "Space Bottom"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:187
+msgid "Description color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:203
+msgid "Description Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:238
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:251
+msgid "Menu Item"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:277
+#: components/editor/elementor/widgets/blo-case-study.php:317
+#: components/theme/options/customizer/options-footer.php:19
+msgid "Text color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:311
+#: core/libs/class-tgm-plugin-activation.php:2317
+msgid "Active"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:352
+#: components/editor/elementor/widgets/blo-feature-box.php:62
+#: components/editor/elementor/widgets/blo-feature-box.php:224
+#: components/editor/elementor/widgets/blo-team.php:92
+msgid "Icon"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:362
+msgid "Icon color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:376
+msgid "Counter color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:403
+msgid "Tag color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:419
+msgid "Tag Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:431
+msgid "Navigation "
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:441
+msgid "Nav color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:452
+msgid "Nav Active color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:466
+msgid "Button Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:570
+msgid "Border Type"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:573
+msgid "None"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:574
+msgid "Solid"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:575
+msgid "Double"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:576
+msgid "Dotted"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:577
+msgid "Dashed"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:578
+msgid "Groove"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:591
+msgid "Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:654
+msgid "Border Radius"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:688
+msgid "Image "
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-case-study.php:708
+msgid "Content Background "
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:15
+msgid "BLO Feature"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:31
+msgid "Feature Content"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:43
+msgid "Authorise Company"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:52
+msgid "Hover Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:55
+msgid "Successfully servicing since 1995"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:94
+msgid "Feature Title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:111
+msgid "Hover Title Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:120
+msgid "Hover Title  color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:139
+msgid "Box"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:148
+msgid "Active Box"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:150
+msgid "On"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:151
+msgid "off"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:172
+msgid "box background"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:188
+msgid "Badge Background"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:204
+msgid "Shape Background"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:232
+msgid "Size"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-feature-box.php:254
+msgid "Shape Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:15
+msgid "BLO Team"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:40
+#: components/editor/elementor/widgets/working-process.php:52
+msgid "Choose Image"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:51
+msgid "Image Size"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:60
+msgid "Name"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:62
+msgid "Richard Branson"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:69
+#: components/editor/elementor/widgets/blo-team.php:241
+msgid "Position"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:71
+msgid "Manager"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:81
+msgid "Social"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:102
+#: components/editor/elementor/widgets/video-popup.php:63
+msgid "Link"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:129
+#: components/editor/elementor/widgets/blo-team.php:159
+msgid "Icon Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:140
+#: components/editor/elementor/widgets/blo-team.php:171
+msgid "Background Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:186
+msgid "Social Icon List"
+msgstr ""
+
+#: components/editor/elementor/widgets/blo-team.php:250
+msgid "Position Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:19
+msgid "Video Popup"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:36
+msgid "Popup settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:41
+msgid "Icon animation"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:43
+#: components/theme/options/customizer/options-banner.php:34
+#: components/theme/options/customizer/options-banner.php:48
+#: components/theme/options/customizer/options-banner.php:86
+#: components/theme/options/customizer/options-banner.php:100
+#: components/theme/options/customizer/options-blog.php:34
+#: components/theme/options/customizer/options-blog.php:48
+#: components/theme/options/customizer/options-footer.php:97
+#: components/theme/options/customizer/options-header.php:19
+#: components/theme/options/customizer/options-header.php:36
+#: components/theme/options/customizer/options-header.php:72
+#: components/theme/options/customizer/options-header.php:92
+#: components/theme/options/posts/blo-case-study.php:36
+#: components/theme/options/posts/page.php:31
+msgid "Yes"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:44
+#: components/theme/options/customizer/options-banner.php:38
+#: components/theme/options/customizer/options-banner.php:52
+#: components/theme/options/customizer/options-banner.php:90
+#: components/theme/options/customizer/options-banner.php:104
+#: components/theme/options/customizer/options-blog.php:38
+#: components/theme/options/customizer/options-blog.php:52
+#: components/theme/options/customizer/options-footer.php:101
+#: components/theme/options/customizer/options-header.php:23
+#: components/theme/options/customizer/options-header.php:41
+#: components/theme/options/customizer/options-header.php:76
+#: components/theme/options/customizer/options-header.php:96
+#: components/theme/options/posts/blo-case-study.php:40
+#: components/theme/options/posts/page.php:35
+msgid "No"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:53
+msgid "Social Icons"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:83
+msgid "icon color"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:94
+msgid "Alignment"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:99
+msgid "Left"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:103
+msgid "Center"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:107
+msgid "Right"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:121
+msgid "Animation icon style"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:133
+#: components/editor/elementor/widgets/working-process.php:211
+msgid "Icon Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:164
+#: components/editor/elementor/widgets/working-process.php:230
+msgid "Icon Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:195
+msgid "padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:209
+msgid "Before border"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:220
+msgid "Before Border"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:229
+msgid "After border"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:240
+msgid "After Border"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:18
+msgid "Blo working process"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:34
+msgid "Working process settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:43
+msgid "Design Build"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:44
+msgid "Type your title here"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:63
+msgid "Show title"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:67
+#: components/editor/elementor/widgets/working-process.php:84
+msgid "Show"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:68
+#: components/editor/elementor/widgets/working-process.php:85
+msgid "Hide"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:80
+msgid "Working arrow"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:98
+msgid "Title Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:129
+msgid "Title margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:142
+msgid "Advanced "
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:171
+msgid "Arrow Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:190
+msgid "Arrow position"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:203
+msgid "Icon Dimension "
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:250
+msgid "Circle Dimension "
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:257
+msgid "Circle BG color"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:269
+msgid "Box Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/working-process.php:288
+msgid "Box Height"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:71
+msgid "select1"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:72
+msgid "select2"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:73
+msgid "select3"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:143
+msgid "Unknown Set"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:157
+msgid "Web Application Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:158
+msgid "Hand Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:159
+msgid "Transportation Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:160
+msgid "Gender Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:161
+msgid "File Type Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:162
+msgid "Payment Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:163
+msgid "Currency Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:164
+msgid "Text Editor Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:165
+msgid "Directional Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:166
+msgid "Video Player Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:167
+msgid "Brand Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:168
+msgid "Medical Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:169
+msgid "blo Icons"
+msgstr ""
+
+#: components/option-types/new-icon/view.php:39
+msgid "All Categories"
+msgstr ""
+
+#: components/option-types/new-icon/view.php:47
+msgid "icon search"
+msgstr ""
+
+#: components/theme/manifest.php:7
+msgid "Event WordPress Theme"
+msgstr ""
+
+#: components/theme/options/customizer.php:8
+msgid "Theme settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:9
+msgid "Banner settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:18
+msgid "Banner Overlay Color"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:22
+#: components/theme/options/customizer/options-banner.php:23
+msgid "Page banner settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:24
+msgid "Edit page Banner Button"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:29
+#: components/theme/options/customizer/options-banner.php:81
+msgid "Show banner?"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:30
+#: components/theme/options/customizer/options-banner.php:82
+msgid "Show or hide the banner"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:43
+#: components/theme/options/customizer/options-banner.php:95
+msgid "Show Breadcrumb?"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:44
+#: components/theme/options/customizer/options-banner.php:96
+msgid "Show or hide the Breadcrumb"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:57
+#: components/theme/options/customizer/options-banner.php:109
+#: components/theme/options/posts/page.php:14
+msgid "Banner title"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:62
+#: components/theme/options/posts/blo-case-study.php:23
+#: components/theme/options/posts/page.php:18
+msgid "Banner image"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:74
+#: components/theme/options/customizer/options-banner.php:75
+msgid "Blog banner settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:76
+msgid "Edit Blog Banner Button"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:114
+msgid "Image"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:115
+msgid "Banner blog image"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:8
+msgid "Blog settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:14
+msgid "Sidebar"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:15
+msgid "Description"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:16
+msgid "Help tip"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:18
+msgid "No sidebar"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:19
+msgid "Left Sidebar"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:20
+msgid "Right Sidebar"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:29
+msgid "Blog author"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:30
+msgid "Do you want to show blog author?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:43
+msgid "Blog related post"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:44
+msgid "Do you want to show single blog related post?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:57
+msgid "Related post count"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:8
+msgid "Footer settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:13
+msgid "Background color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:16
+msgid "You can change the  background color with rgba color or solid color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:22
+#: components/theme/options/customizer/options-footer.php:28
+#: components/theme/options/customizer/options-footer.php:34
+msgid "You can change the text color with rgba color or solid color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:25
+msgid "Link color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:31
+msgid "Widget Title color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:37
+msgid "Copyright Background color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:40
+msgid ""
+"You can change the copyright background color with rgba color or solid color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:43
+msgid "Footer Copyright color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:45
+msgid ""
+"You can change the footer's background color with rgba color or solid color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:51
+#: components/theme/options/customizer/options-general.php:21
+msgid "Social links"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:52
+#: components/theme/options/customizer/options-general.php:22
+msgid ""
+"Add social links and it's icon class bellow. These are all fontaweseome-4.7 "
+"icons."
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:53
+#: components/theme/options/customizer/options-general.php:23
+msgid "Add new"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:61
+#: components/theme/options/customizer/options-general.php:32
+msgid "Social icon"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:65
+#: components/theme/options/customizer/options-general.php:36
+msgid "Social link"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:74
+msgid "&copy; 2019, Blo. All rights reserved"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:75
+msgid "Copyright text"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:76
+msgid "This text will be shown at the footer of all pages."
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:80
+msgid "Footer Padding Top"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:81
+msgid "Use Footer Padding Top"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:86
+msgid "Footer Padding Bottom"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:87
+msgid "Use Footer Padding Bottom"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:94
+msgid "Back to top"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:8
+msgid "General settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:11
+msgid "logo"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:12
+msgid ""
+"It's the main logo, mostly it will be shown on \"Default Menu\" type area."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:8
+msgid "Header settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:14
+msgid "Sticky header"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:15
+msgid "Do you want to enable sticky nav?"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:31
+msgid "Topbar"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:32
+msgid "Do you want to show topbar?"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:47
+msgid "Contact mail"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:48
+msgid "Give mail."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:49
+msgid "contact@domain.com"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:54
+msgid "Contact address title"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:55
+msgid "Give office address."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:56
+msgid "105 Roosevelt Street CA"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:61
+msgid "Contact number title"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:62
+msgid "Give Contact Number for header  style 3."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:63
+msgid "+1 212-554-1515"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:67
+msgid "Search button show"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:68
+msgid "Do you want to show search button in header ?"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:88
+msgid "Quote button show"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:105
+msgid "Quote text"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:106
+msgid "Navigation quote text."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:107
+#: template-parts/headers/header-content.php:25
+msgid "Get a quote"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:111
+msgid "Quote link"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:112
+msgid "Navigation quote link."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:113
+msgid "#"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:7
+msgid "Style settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:10
+msgid "Body background"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:11
+msgid "Site's main background color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:16
+msgid "Primary color"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:17
+msgid "Site's main color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:22
+msgid "Secondary color"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:23
+msgid "Secondary color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:29
+msgid "Blog title color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:35
+msgid "Body Font"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:36
+msgid "Choose the typography for the title"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:67
+msgid "Heading H1 and H2 Fonts"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:68
+#: components/theme/options/customizer/options-style.php:87
+#: components/theme/options/customizer/options-style.php:106
+msgid "This is for heading google fonts"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:86
+msgid "Heading H3 Fonts"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:105
+msgid "Heading H4 Fonts"
+msgstr ""
+
+#: components/theme/options/posts/blo-case-study.php:8
+msgid "Case Study settings"
+msgstr ""
+
+#: components/theme/options/posts/blo-case-study.php:14
+msgid "Project Title"
+msgstr ""
+
+#: components/theme/options/posts/blo-case-study.php:19
+msgid "Client"
+msgstr ""
+
+#: components/theme/options/posts/blo-case-study.php:20
+msgid "Client name to display on the post"
+msgstr ""
+
+#: components/theme/options/posts/blo-case-study.php:24
+#: components/theme/options/posts/page.php:19
+msgid "Upload a page header image"
+msgstr ""
+
+#: components/theme/options/posts/blo-case-study.php:25
+#: components/theme/options/posts/page.php:20
+msgid "This default header image will be used for all your service."
+msgstr ""
+
+#: components/theme/options/posts/blo-case-study.php:31
+#: components/theme/options/posts/page.php:26
+msgid "Display sub header menu?"
+msgstr ""
+
+#: components/theme/options/posts/blo-case-study.php:32
+#: components/theme/options/posts/page.php:27
+msgid "Display sub menu"
+msgstr ""
+
+#: components/theme/options/posts/blo-case-study.php:33
+#: components/theme/options/posts/page.php:28
+msgid "A menu will be displayed under Banner"
+msgstr ""
+
+#: components/theme/options/posts/page.php:8
+msgid "Page settings"
+msgstr ""
+
+#: components/theme/options/posts/page.php:15
+msgid "Add your Page hero title"
+msgstr ""
+
+#: components/theme/options/posts/post.php:5
+msgid "Featured video"
+msgstr ""
+
+#: components/theme/options/posts/post.php:12
+msgid "Video URL"
+msgstr ""
+
+#: components/theme/options/posts/post.php:13
+msgid ""
+"Paste a video link from Youtube, Vimeo, Dailymotion, Facebook or Twitter it "
+"will be embedded in the post and the thumb used as the featured image of "
+"this post. \r\n"
+"\t\t\t\tYou need to choose \"Video Format\" as post format to use \"Featured "
+"Video\"."
+msgstr ""
+
+#: components/theme/options/posts/post.php:21
+msgid "Featured audio"
+msgstr ""
+
+#: components/theme/options/posts/post.php:28
+msgid "Audio URL"
+msgstr ""
+
+#: components/theme/options/posts/post.php:29
+msgid "Paste a soundcloud link here."
+msgstr ""
+
+#: components/theme/options/posts/post.php:35
+msgid "Featured gallary"
+msgstr ""
+
+#: components/theme/options/posts/post.php:43
+msgid "Featured gallery"
+msgstr ""
+
+#: components/theme/options/posts/post.php:44
+msgid "Select featured gallery images for this post."
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:6
+#: components/theme/options/taxonomies/category.php:7
+msgid "Category icon"
+msgstr ""
+
+#: core/helpers/functions/global.php:245
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: core/helpers/functions/template.php:21
+msgid "Previous post"
+msgstr ""
+
+#: core/helpers/functions/template.php:30
+msgid "Next post"
+msgstr ""
+
+#: core/helpers/functions/template.php:49
+msgid "Home"
+msgstr ""
+
+#: core/helpers/functions/template.php:76
+#: core/helpers/functions/template.php:80
+#: core/helpers/functions/template.php:84
+msgid "Blogs for"
+msgstr ""
+
+#: core/helpers/functions/template.php:88
+msgid "Author Blogs"
+msgstr ""
+
+#: core/helpers/functions/template.php:91
+msgid "Blogs"
+msgstr ""
+
+#: core/helpers/functions/template.php:94
+msgid "Search Result"
+msgstr ""
+
+#: core/helpers/functions/template.php:97
+msgid "404 Not Found"
+msgstr ""
+
+#: core/helpers/functions/template.php:197
+msgid "says:"
+msgstr ""
+
+#: core/helpers/functions/template.php:201
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/helpers/functions/template.php:208
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: core/helpers/functions/template.php:211
+msgid "(Edit)"
+msgstr ""
+
+#: core/helpers/functions/template.php:227
+msgid "More pages: "
+msgstr ""
+
+#: core/helpers/functions/template.php:233
+msgid "Next "
+msgstr ""
+
+#: core/helpers/functions/template.php:234
+msgid " Previous"
+msgstr ""
+
+#: core/hooks/blog.php:10
+msgid "read more"
+msgstr ""
+
+#: core/hooks/blog.php:35
+msgid "Search"
+msgstr ""
+
+#: core/hooks/widget-areas.php:11
+msgid "Blog widget area"
+msgstr ""
+
+#: core/hooks/widget-areas.php:13
+msgid "Appears on posts."
+msgstr ""
+
+#: core/hooks/widget-areas.php:116
+msgid "Woocommerce sidebar Area"
+msgstr ""
+
+#: core/hooks/widget-areas.php:118
+msgid "Appears on posts and pages."
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:9
+msgid "Unyson"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:14
+msgid "Elementor"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:19
+msgid "Elementskit"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:25
+msgid "Contact form 7"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:30
+msgid "blo Essentials"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:36
+msgid "Slider Revolution"
+msgstr ""
+
+#: core/installation-fragments/theme-demos.php:7
+msgid "Demo"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:386
+#: core/libs/class-tgm-plugin-activation.php:823
+#: core/libs/class-tgm-plugin-activation.php:2529
+#: core/libs/class-tgm-plugin-activation.php:3576
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:387
+#: core/libs/class-tgm-plugin-activation.php:3155
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:388
+#: core/libs/class-tgm-plugin-activation.php:2948
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: core/libs/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:518
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:519
+msgid "Update Required"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:930
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:930
+#: core/libs/class-tgm-plugin-activation.php:933
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:933
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:1117
+#: core/libs/class-tgm-plugin-activation.php:2944
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: core/libs/class-tgm-plugin-activation.php:1978
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2269
+msgid "Required"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2272
+msgid "Recommended"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2288
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2291
+msgid "External Source"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2294
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2311
+msgid "Not Installed"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2315
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2323
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2326
+msgid "Requires Update"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2329
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: core/libs/class-tgm-plugin-activation.php:2338
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2384
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2388
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:2478
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2486
+msgid "Installed version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2494
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2506
+msgid "Available version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2529
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2543
+msgid "Plugin"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2544
+msgid "Source"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2549
+msgid "Version"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2550
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2599
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2604
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2610
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2680
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2713
+msgid "Install"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2719
+msgid "Update"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2722
+msgid "Activate"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2904
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2930
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3154
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3494
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: core/libs/class-tgm-plugin-activation.php:3497
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3499
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3503
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3505
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3505
+#: core/libs/class-tgm-plugin-activation.php:3513
+msgid "Show Details"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3505
+#: core/libs/class-tgm-plugin-activation.php:3513
+msgid "Hide Details"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3508
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3511
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3513
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3516
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions.php:81
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:82
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:83
+msgid "Sub Header Menu"
+msgstr ""
+
+#: page.php:34 template-parts/blog/contents/content-single.php:45
+msgid "Edit"
+msgstr ""
+
+#: search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/blog/contents/content-none.php:2
+msgid "Nothing found!"
+msgstr ""
+
+#: template-parts/blog/contents/content-none.php:3
+msgid "It looks like nothing was found here. Maybe try a search?"
+msgstr ""
+
+#: template-parts/blog/contents/content-page.php:16
+#: template-parts/blog/contents/content-single.php:30
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: template-parts/blog/contents/format/standard-gallery.php:6
+#: template-parts/blog/contents/format/standard-image.php:8
+#: template-parts/blog/contents/format/standard-image.php:24
+#: template-parts/blog/contents/format/standard-quote.php:12
+#: template-parts/blog/contents/format/standard-video.php:6
+#: template-parts/blog/contents/format/standard.php:8
+#: template-parts/blog/contents/format/standard.php:24
+msgid "Sticky"
+msgstr ""
+
+#: template-parts/blog/post-parts/part-tags.php:8
+msgid "Tags: "
+msgstr ""
+
+#: template-parts/case-study/content-related.php:36
+msgid "Interested!"
+msgstr ""
+
+#: template-parts/case-study/content-related.php:37
+msgid "Have a look on Similar Case Studies"
+msgstr ""
+
+#: template-parts/case-study/content-related.php:69
+msgid "View Details"
+msgstr ""
+
+#: template-parts/case-study/content-single.php:22
+msgid "Client:"
+msgstr ""
+
+#: template-parts/case-study/content-single.php:26
+msgid "Category:"
+msgstr ""
+
+#: template-parts/case-study/content-single.php:42
+msgid "Date:"
+msgstr ""
+
+#: template-parts/case-study/content-single.php:45
+msgid "Share:"
+msgstr ""
+
+#: template-parts/headers/header-content.php:53
+msgid "On Social:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Blo"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeforest.net/user/xpeedstudio/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Blo is a Factory & Industrial WordPress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Xpeedstudio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://xpeedstudio.com/"
+msgstr ""

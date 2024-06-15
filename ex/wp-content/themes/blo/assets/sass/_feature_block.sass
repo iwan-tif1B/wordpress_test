@@ -1,0 +1,86 @@
+.single-featurebox
+  display: flex
+  justify-content: space-between
+  background: #4046a1
+  color: #fff
+  position: relative
+  align-items: center
+  padding:
+    left: 34px
+    right: 40px
+    top: 30px
+    bottom: 30px
+  z-index: 1
+  +breakpoint(md)
+    padding:
+      left: 15px
+      right: 15px
+  +breakpoint(xs)
+    flex: 0 0 100%
+    max-width: 100%
+  .box-badge
+    position: absolute
+    left: 0
+    top: -60px
+    width: 100%
+    min-height: 55px
+    display: flex
+    align-items: center
+    justify-content: center
+    background: #fff
+    font-size: 20px
+    font-weight: 600
+    color: $color_primary_home5
+    font-family: 'Poppins', sans-serif
+    opacity: 0
+    visibility: hidden
+    transition: all 0.24s ease-in-out
+    +breakpoint(lg)
+      font-size: 16px
+    +breakpoint(md)
+      font-size: 14px
+  .icon-box
+    font-size: 60px
+    margin-right: 50px
+    +breakpoint(md)
+      font-size: 50px
+      margin-right: 45px
+  h4
+    font-size: 24px
+    color: #fff
+    font-family: Poppins, sans-serif
+    +breakpoint(lg)
+      font-size: 20px
+    a
+      color: #fff
+  &:after
+    position: absolute
+    left: 0
+    top: 0
+    width: 130px
+    height: 100%
+    background: #393f91
+    content: ''
+    z-index: -1
+    border-top-right-radius: 100px
+    border-bottom-right-radius: 100px
+    transition: all 0.24s $ease-in-out-circ
+    +breakpoint(md)
+      width: 90px
+  &:nth-child(2)
+    background: #343675
+    &:after
+      background: #2f3069
+  &:nth-child(3)
+    background: #21225f
+    &:after
+      background: #1e1f55
+  &:hover, &.active
+    &:after
+      width: 100% !important
+      border-radius: 0px
+    .box-badge
+      opacity: 1
+      visibility: visible
+      top: -55px
+      transition-delay: 0.24s

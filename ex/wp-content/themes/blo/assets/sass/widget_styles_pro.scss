@@ -1,0 +1,9 @@
+@import './mixin';
+@import './variable';
+.ekit-wid-con .media {
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -ms-flex-align: start !important;
+    align-items: flex-start !important;
+}
+@import './hotspot';

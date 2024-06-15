@@ -1,0 +1,67 @@
+.single-team-member
+  position: relative
+  margin-bottom: 86px
+  .inner-content
+    width: 75%
+    left: 0px
+    right: 0px
+    margin-left: auto
+    margin-right: auto
+    box-shadow: 0px 10px 30px 0px rgba(17, 12, 79, 0.1)
+    min-height: 105px
+    position: absolute
+    bottom: -56px
+    z-index: 23
+    background-color: #fff
+    display: flex
+    flex-direction: column
+    justify-content: center
+    transition: all 0.24s ease-in-out
+    overflow: hidden
+    h4
+      text-transform: capitalize
+      font-size: 20px
+      color: $heading_font-color
+      font-weight: 700
+      font-family: 'Poppins', sans-serif
+      margin-bottom: 10px
+      a
+        color: $heading_font-color
+        &:hover
+          color: $color-primary
+    h6
+      text-transform: uppercase
+      font-size: 13px
+      color: #565872
+      font-family: "Rubik", sans-serif
+      font-weight: 500
+      letter-spacing: 1px
+
+    ul.footer-social2 li a
+      transform: translateY(50px)
+      transition: all 0.35s ease-in-out
+    .top-info
+      transform: translateY(35px)
+      transition: all 0.35s ease-in-out
+  &:hover
+    .inner-content
+      min-height: 160px
+      .top-info
+        transform: translateY(0px)
+      ul.footer-social2 li a
+        transform: translateY(0px)
+      ul.footer-social2
+
+        li
+          &:nth-child(2) a
+            transition-delay: 0.15s
+          &:nth-child(3) a
+            transition-delay: 0.20s
+          &:nth-child(4) a
+            transition-delay: 0.20s
+          &:nth-child(5) a
+            transition-delay: 0.25s
+          &:nth-child(6) a
+            transition-delay: 0.30s
+          &:nth-child(7) a
+            transition-delay: 0.35s

@@ -1,0 +1,236 @@
+.xs-case-study-main{
+  padding-top: 95px;
+    background-color: #eef2f6;
+}
+.case_study_content_info{
+    background-color: #fff;
+    padding: 60px 20px;
+}
+.case_study_meta{
+    padding: 0 40px;
+    h3{
+      color: #1d3977;
+      margin-bottom: 25px;
+    }
+}
+.xs-case-study-related-post{
+    padding-top: 100px;
+}
+.case_study_related_content{
+  margin-bottom: 25px;
+  .case-title{
+      font-family: 'Merriweather', serif;
+  }
+}
+.xs-page-headding {
+    margin-bottom: 50px;
+
+    >p {
+        margin-bottom: 20px;
+        color: #ed3948;
+        font-size: 16px;
+        letter-spacing: 1.5px;
+        font-weight: 500;
+    }
+
+    >h2 {
+        margin-bottom: 0px;
+        color: #172964;
+        font-weight: 700;
+        font-size: 36px;
+        font-family: 'Merriweather', serif;
+    }
+}
+
+.case_study_content_info {
+    >h3 {
+        color: #1d3977;
+        font-size: 24px;
+        font-weight: 700;
+        font-family: 'Merriweather', serif;
+        margin-bottom: 25px;
+    }
+}
+
+.blo_case_study_single_page_list {
+    padding-left: 0;
+
+    margin: {
+        top: 0;
+        bottom: 0;
+    }
+
+    >li {
+        list-style: none;
+        margin-bottom: 10px;
+
+        >strong {
+            color: #1d3977;
+            font-weight: 600;
+            font-size: 16px;
+            width: 30%;
+            display: inline-block;
+        }
+
+        >span {
+            width: 68%;
+            display: inline-block;
+            color: #565872;
+            font-size: 16px;
+        }
+    }
+}
+
+$socialColor: (facebook: #3b5998,
+    twitter: #1da1f2,
+    pinterest: #bd081c,
+    linkedin: #0077b5,
+);
+
+.blo_single_case_study_social {
+    display: inline-block;
+
+    >a {
+        display: inline-block;
+        margin-right: 13px;
+
+        @each $name,
+        $color in $socialColor {
+            &.#{$name} {
+                color: $color;
+            }
+        }
+    }
+}
+
+.blog_caase_study_header_row {
+    margin-bottom: 55px;
+}
+
+.sidebar {
+    .blo_single_case_study_widget {
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0px 3px 3px 0px rgba(17, 12, 79, 0.1);
+        border: 0px solid #000;
+
+        .widget-title {
+            color: #1d3977;
+            font-size: 24px;
+            font-weight: 700;
+            font-family: 'Merriweather', serif;
+            padding-bottom: 0;
+            margin-bottom: 20px;
+
+            &::before {
+                display: none;
+            }
+        }
+    }
+
+    .widget_custom_html {
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0px 3px 3px 0px rgba(17, 12, 79, 0.1);
+        border: 0px solid #000;
+
+        .widget-title {
+            color: #1d3977;
+            font-size: 24px;
+            font-weight: 700;
+            font-family: 'Merriweather', serif;
+            padding-bottom: 0;
+            margin-bottom: 20px;
+
+            &::before {
+                display: none;
+            }
+        }
+    }
+}
+
+
+.blo_single_case_study_widget_posts {
+    .entry-title {
+        color: #1d3977;
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 9px;
+
+        >a {
+            color: inherit;
+        }
+    }
+
+    .post-date {
+        >a {
+            color: #565872;
+            font-size: 14px;
+        }
+    }
+
+    .widget-post {
+        padding: {
+            top: 20px;
+            bottom: 20px;
+        }
+
+        &:last-child {
+            padding: {
+                bottom: 0px;
+            }
+        }
+
+        border-top: 1px solid #eef2f6;
+    }
+}
+
+.ekit_widget_button {
+    width: 100%;
+    display: block;
+    background-color: rgb(101, 132, 194);
+    box-shadow: 0px 3px 3px 0px rgba(17, 12, 79, 0.1);
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: 500;
+    transition: all 500ms ease;
+    backface-visibility: hidden;
+
+    padding: {
+        left: 30px;
+        right: 30px;
+        top: 18px;
+        bottom: 18px;
+    }
+
+    &:hover {
+        color: #FFFFFF;
+        box-shadow: none;
+    }
+
+    >i {
+        padding-right: 10px;
+    }
+
+    .left_content {
+        float: right;
+        font-weight: 400;
+    }
+
+    &:not(:last-child) {
+        margin-bottom: 20px;
+    }
+}
+.xs-case-study-headding{
+  h2{
+    line-height: 45px;
+  }
+}
+.author-info{
+  h3{
+    font-size: 20px;
+    text-transform: capitalize;
+  }
+}
+.xs-case-study-sidebar{
+  position: sticky;
+  top: 20px;
+}

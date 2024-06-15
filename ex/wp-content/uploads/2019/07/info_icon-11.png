@@ -1,0 +1,434 @@
+
+<!DOCTYPE html>
+<!--[if !IE]><!--> <html lang="en-US"> <!--<![endif]-->
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<title>Page not found &#8211; Blo</title>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans%3A%2C400%2C700%2C900%7CZilla+Slab%3A%2C400%2C700%2C900" rel="stylesheet"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Blo &raquo; Feed" href="http://blo.finesttheme.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Blo &raquo; Comments Feed" href="http://blo.finesttheme.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/blo.finesttheme.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='elementskit-nav-menu-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/nav-menu/assets/css/style.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://blo.finesttheme.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://blo.finesttheme.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://blo.finesttheme.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://blo.finesttheme.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='elementskit-framework-css-frontend-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/libs/framework/assets/css/frontend-style.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-parallax-style-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/modules/parallax/assets/css/style.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='induxo-fonts-css'  href='https://fonts.googleapis.com/css?family=Zilla+Slab%3A300%2C300i%2C400%2C400i%2C500%2C600%2C700%2C800%2C900%7COpen+Sans%3A400%2C700&#038;ver=1562655965' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://blo.finesttheme.com/wp-content/themes/induxo/assets/css/bootstrap.min.css?ver=1562655965' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='icon-font-css'  href='http://blo.finesttheme.com/wp-content/themes/induxo/assets/css/icon-font.css?ver=1562655965' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://blo.finesttheme.com/wp-content/themes/induxo/assets/css/animate.css?ver=1562655965' type='text/css' media='all' />
+<link rel='stylesheet' id='morris-css'  href='http://blo.finesttheme.com/wp-content/themes/induxo/assets/css/morris.css?ver=1562655965' type='text/css' media='all' />
+<link rel='stylesheet' id='isotope-css'  href='http://blo.finesttheme.com/wp-content/themes/induxo/assets/css/isotope.css?ver=1562655965' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://blo.finesttheme.com/wp-content/themes/induxo/assets/css/magnific-popup.css?ver=1562655965' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-min-css'  href='http://blo.finesttheme.com/wp-content/themes/induxo/assets/css/owl.carousel.min.css?ver=1562655965' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-default-css'  href='http://blo.finesttheme.com/wp-content/themes/induxo/assets/css/owl.theme.default.min.css?ver=1562655965' type='text/css' media='all' />
+<link rel='stylesheet' id='induxo-blog-css'  href='http://blo.finesttheme.com/wp-content/themes/induxo/assets/css/blog.css?ver=1562655965' type='text/css' media='all' />
+<link rel='stylesheet' id='induxo-gutenberg-custom-css'  href='http://blo.finesttheme.com/wp-content/themes/induxo/assets/css/gutenberg-custom.css?ver=1562655965' type='text/css' media='all' />
+<link rel='stylesheet' id='induxo-master-css'  href='http://blo.finesttheme.com/wp-content/themes/induxo/assets/css/master.css?ver=1562655965' type='text/css' media='all' />
+<style id='induxo-master-inline-css' type='text/css'>
+
+        body{ font-family:"Open Sans";font-size:15px;font-weight:400; }
+
+        h1,h2{
+            font-family:"Zilla Slab";font-weight:700;
+        }
+        h3{ 
+            font-family:"Zilla Slab";font-weight:700; 
+        }
+
+        h4{ 
+            font-family:"Zilla Slab";font-weight:700;
+        }
+
+        a, .post-meta span i, .entry-header .entry-title a:hover, .sidebar ul li a:hover{
+            color: #ff5c23;
+            transition: all ease 500ms;
+        }
+        .header ul.navbar-nav > li > a:hover,
+         .header ul.navbar-nav > li > a.active,
+         .header ul.navbar-nav > li > a:focus{
+            color: #ff5c23 !important;
+        }
+
+         .entry-header .entry-title a,
+         h1,h2,h3,h4,h5,h6,
+         .post .entry-header .entry-title a{
+            color: #1c1c24;
+            
+        }
+        
+        ul.navbar-nav li .dropdown-menu li a:hover,
+        .ts-service .ts-service-box .ts-service-box-info .ts-title a:hover,
+        .recent-folio-menu ul li.active,
+        .ts-footer .footer-left-widget ul li span,
+        .ts-footer .footer-widget ul li a:hover,
+        .copyright span a,
+        .ts-latest-news .single-latest-news .single-news-content .ts-post-title a:hover,
+        .ts-top-bar .top-bar .header-nav-right-info li i.fa,
+        .ts-nav-classic .header-nav-right-info li i,
+        .sidebar .widget .media-body .entry-title a:hover,
+        .header ul.navbar-nav li .dropdown-menu li a:hover,
+        .header ul.navbar-nav li .dropdown-menu li a.active,
+        .btn:hover,
+        .readmore-btn-area a,
+        .post .entry-header .entry-title a:hover,
+        .wp-block-quote:before{
+           color: #ff5c23;
+        }
+
+      
+        .btn-primary,
+        .recent-folio-menu ul li.active,
+        .copyright .footer-social ul li a:hover,
+        .testimonial-footer:after,
+        .btn-border-dark:hover, 
+        .ts-working-box:hover .working-icon-wrapper,
+        .header ul.navbar-nav > li:hover > a:before, .header ul.navbar-nav > li.active > a:before,
+        .blog-post-comment .comment-respond .comment-form .form-control:focus,
+        .qutoe-form-inner.ts-qoute-form .form-control:focus{
+           border-color: #ff5c23;;
+        }
+        .recent-folio-menu ul li.active:after,
+        .ts-latest-news .single-latest-news{
+           border-bottom-color: #ff5c23;;
+        }
+        .nav-classic .main-logo a:after{
+           border-top-color: #ff5c23;;
+        }
+        .btn-primary:hover{
+         background: #000;
+         border-color: #000;;
+        }
+        blockquote.wp-block-quote, .wp-block-quote, .wp-block-quote:not(.is-large):not(.is-style-large), .wp-block-pullquote blockquote,
+         blockquote.wp-block-pullquote, .wp-block-quote.is-large, .wp-block-quote.is-style-large{
+            border-left-color: #ff5c23;;
+        }
+
+        
+         .single-intro-text .count-number, .sticky.post .meta-featured-post,
+        .sidebar .widget .widget-title:before, .pagination li.active a, .pagination li:hover a,
+        .pagination li.active a:hover, .pagination li:hover a:hover,
+        .sidebar .widget.widget_search .input-group-btn, .tag-lists a:hover, .tagcloud a:hover,
+        .BackTo, .ticket-btn.btn:hover,
+        .navbar-container .navbar-light .navbar-nav > li > a:before,
+        .nav-button,
+        .btn-primary,
+        .single-recent-work .link-more,
+        .ts-team-slider .owl-nav .owl-prev:hover i, .ts-team-slider .owl-nav .owl-next:hover i,
+      
+        .ts-footer-info-box,
+        .working-process-number,
+        .copyright .footer-social ul li a:hover,
+        .btn-border-dark:hover,
+        .nav-classic .main-logo a:before,
+        .btn,
+        .main-logo,
+        .hero-area.owl-carousel.owl-theme .owl-nav [class*=owl-]:hover,
+        .post .post-footer .readmore,
+        .post .post-media .video-link-btn a{
+            background: #ff5c23;
+        }
+        .owl-carousel.owl-loaded .owl-nav .owl-next.disabled, 
+        .owl-carousel.owl-loaded .owl-nav .owl-prev.disabled,
+        .ts-about-image-wrapper.owl-carousel.owl-theme .owl-nav [class*=owl-]:hover{
+            background: #ff5c23 !important;
+
+        }
+
+        .banner-bg::after{
+            background: rgba(0, 0, 0, 0.4);
+        }
+        
+        .ts-footer{
+            padding-top:100px;
+            padding-bottom:100px;
+         }
+      body{
+         background-color: #fff;
+         
+      }
+     
+      .ts-footer{
+          background-color: #101010;
+          background-repeat:no-repeat;
+          background-size: cover;
+          background-image:url(http://blo.finesttheme.com/wp-content/themes/induxo/assets/images/footer_bg.jpg);
+          
+      }
+
+      .ts-footer-classic .widget-title,
+      .ts-footer-classic h3,
+      .ts-footer-classic h4,
+      .ts-footer-classic .contact h3{
+          color: #101010;
+      }
+      .ts-footer-classic p,
+      .ts-footer-classic .list-arrow li a,
+      .ts-footer-classic .menu li a,
+      .ts-footer-classic .service-time li,
+      .ts-footer-classic .list-arrow li::before, 
+      .ts-footer-classic .menu li::before{
+        color: #fff;
+      }
+
+     
+      .copy-right {
+         background: #101010;
+      }
+      .copy-right .copyright-text{
+         color: #fff;
+      }
+      
+</style>
+<link rel='stylesheet' id='elementskit-fonts-css'  href='https://fonts.googleapis.com/css?family=Lato%3A100%2C300%2C400%2C700%2C900%7CPlayfair+Display%3A400%2C700%2C700i%2C900%2C900i&#038;ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ekiticons-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/css/ekiticons.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='grid-loading-animation-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/css/grid-loading-animation.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwenty-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/css/twentytwenty.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='flatpickr-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/css/swiper.min.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='plugins-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/css/plugins.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/css/slick.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/css/slick-theme.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-style-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/css/style.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-responsive-css'  href='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/css/responsive.css?ver=1.0.9' type='text/css' media='all' />
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.3'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.3'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/libs/framework/assets/js/frontend-script.js?ver=1'></script>
+<script type='text/javascript'>
+
+        //console.log(window.elementskit);
+
+		var elementskit = {
+            resturl: 'http://blo.finesttheme.com/wp-json/elementskit/v1/',
+        }
+
+        //console.log(window.elementskit);
+		
+</script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/modules/parallax/assets/js/jarallax.js?ver=1.0.9'></script>
+<link rel='https://api.w.org/' href='http://blo.finesttheme.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blo.finesttheme.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blo.finesttheme.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.2" />
+
+			<script type="text/javascript">
+				var elementskit_section_parallax_data = {};
+				var elementskit_module_parallax_url = "http://blo.finesttheme.com/wp-content/plugins/elementskit/modules/parallax/"
+			</script>
+				<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+    </head>
+
+    <body class="error404 sidebar-active elementor-default" >
+
+	 <div class="topbar topbar-standard alice-blue-bg">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-7 col-lg-8 xs-center">
+            <ul class="top-info">
+                                <li><i class="icon icon-envelope"></i> contact@domain.com </li>
+                                               <li><i class="icon icon-map-marker1"></i> 105 Roosevelt Street CA</li>
+                
+            </ul>
+         </div>
+         <div class="col-md-5 col-lg-4 align-self-center">
+                     <ul class="social-links">
+               
+                              </ul>
+         <!-- end social links -->
+         </div>
+      <!-- end col -->
+      </div>
+   <!-- end row -->
+   </div>
+<!-- end container -->
+</div>
+<header id="header" class="header header-standard   ">
+      <div class="header-wrapper">
+            <div class="container">
+               <nav class="navbar navbar-expand-lg navbar-light">
+                        <!-- logo-->
+                     <a class="logo" href="http://blo.finesttheme.com/">
+                        <img  class="img-fluid" src="http://blo.finesttheme.com/wp-content/themes/induxo/assets/images/logo/logo-dark.png" alt="Blo">
+                     </a>
+                     <button class="navbar-toggler" type="button" data-toggle="collapse"
+                           data-target="#primary-nav" aria-controls="primary-nav" aria-expanded="false"
+                           aria-label="Toggle navigation">
+                           <span class="navbar-toggler-icon"><i class="icon icon-menu"></i></span>
+                     </button>
+                     
+                       
+
+	
+                                                  <div class="nav-search-area">
+                                                               <!--Search End-->
+                              <div class="search-block" style="display: none;">
+                                    
+        <form  method="get" action="http://blo.finesttheme.com/" class="induxo-serach xs-search-group">
+            <div class="input-group">
+                <input type="search" class="form-control" name="s" placeholder="Search" value="">
+                <button class="input-group-btn search-button"><i class="icon icon-search1"></i></button>
+            </div>
+        </form>                                    <span class="search-close">×</span>
+                              </div>
+                           </div>
+                           
+                                          <!-- Site search end-->
+                                                                        <div class="header-quote">
+                                 <a href="#" class="quote-btn btn">  Get a quote                                 </a>
+                              </div>   
+                                                                            
+                            
+               </nav>
+            </div><!-- container end-->
+   </div><!-- header wrapper end-->
+</header>
+
+
+
+     <section class="banner-area banner-bg" style="background-image:url(http://blo.finesttheme.com/wp-content/themes/induxo/assets/images/banner/banner_image1.jpg);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 align-self-center">
+                        <h2 class="banner-title ">
+                           Blo 
+                        </h2>
+                                             </div>
+                </div>
+            </div>
+        </section>  
+  
+     <section id="main-container" class="blog main-container">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-6 mx-auto">
+                  <div class="error-page text-center">
+                     <div class="error-code">
+                        <strong>404</strong>
+                     </div>
+                     <div class="error-message">
+                        <h3>Oops... Page Not Found!</h3>
+                     </div>
+                     <div class="error-body">
+                        Try using the button below to go to main page of the site <br>
+                        <a href="http://blo.finesttheme.com/" class="btn btn-primary solid blank"><i class="fa fa-arrow-circle-left"> </i> Back to Home Page</a>
+                     </div>
+                  </div>
+               </div>
+            </div><!-- Content row -->
+         </div><!-- Container end -->
+      </section><!-- Main container end -->
+
+
+                  
+      
+   <div class="copy-right">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="300ms">
+
+                     <div class="copyright-text">
+                     &copy; 2019, Induxo. All rights reserved                     </div>
+               </div>
+               <div class="col-lg-6 col-md-5">
+                  
+                     <div class="footer-social">
+                        <ul>
+                                                </ul>
+                       
+                     </div>
+                     <!--Footer Social End-->
+               </div>
+            </div>
+            <!-- end row -->
+         </div>
+   </div>
+        <!-- end footer -->
+         <div class="BackTo">
+         <a href="#" class="fa fa-angle-up" aria-hidden="true"></a>
+      </div>
+   
+   <script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/nav-menu/assets/js/script.js?ver=5.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ekit_site_url = {"siteurl":"http:\/\/blo.finesttheme.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/mail-chimp/assets/js/mail-chimp.js?ver=1.0'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/chart/assets/js/chart.min.js?ver=5.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/blo.finesttheme.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/plugins.js?ver=1.0.9'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/Popper.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/bootstrap.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/jquery.magnific-popup.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/owl.carousel.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/imagesloaded.pkgd.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/isotope.pkgd.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/masonry.pkgd.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/anime.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/jquery.waypoints.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/jquery.easypiechart.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/jquery.event.move.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/jquery.twentytwenty.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/jquery.countdown.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/jquery.ajaxchimp.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/tilt.jquery.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/slick.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/main.js?ver=1.0.9'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/widgets/init/assets/js/nav-tools.js?ver=1.0'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/modules/parallax/assets/js/TweenMax.min.js?ver=1.0.9'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/modules/parallax/assets/js/jquery.easing.1.3.js?ver=1.0.9'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/modules/parallax/assets/js/tilt.jquery.min.js?ver=1.0.9'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/modules/parallax/assets/js/anime.js?ver=1.0.9'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/plugins/elementskit/modules/parallax/assets/js/magician.js?ver=1.0.9'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/themes/induxo/assets/js/popper.min.js?ver=1562655965'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/themes/induxo/assets/js/jquery.appear.min.js?ver=1562655965'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/themes/induxo/assets/js/isotope.pkgd.min.js?ver=1562655965'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/themes/induxo/assets/js/raphael.min.js?ver=1562655965'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/themes/induxo/assets/js/morris.js?ver=1562655965'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/themes/induxo/assets/js/owl.carousel.min.js?ver=1562655965'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-content/themes/induxo/assets/js/script.js?ver=1562655965'></script>
+<script type='text/javascript' src='http://blo.finesttheme.com/wp-includes/js/wp-embed.min.js?ver=5.2.2'></script>
+
+   </body>
+</html>

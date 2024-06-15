@@ -1,0 +1,28 @@
+[21-Feb-2024 07:25:46 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[21-Feb-2024 07:25:50 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[21-Feb-2024 07:31:40 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[21-Feb-2024 09:03:47 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[21-Feb-2024 09:03:50 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[21-Feb-2024 09:11:38 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[21-Feb-2024 09:20:18 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mesinkas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8

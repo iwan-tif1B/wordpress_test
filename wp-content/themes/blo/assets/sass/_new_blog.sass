@@ -1,0 +1,178 @@
+.single-home-blog
+  position: relative
+  transition: all 0.24s ease-in-out
+  margin-bottom: 30px
+  .xs-post-thumbnail
+    position: relative
+    overflow: hidden
+    img
+      transition: all 1s ease-out
+    .xs-meta-date
+      position: absolute
+      background: $color-primary
+      color: #fff
+      height: 60px
+      width: 60px
+      text-align: center
+      right: 20px
+      box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.5)
+      transition: all 0.24s ease-in-out
+      top: 20px
+      span
+        display: block
+        font-family: 'Merriweather', serif
+        font-weight: 700
+        &:nth-child(1)
+          font-size: 30px
+
+          line-height: 30px
+
+          padding-top: 4px
+        &:nth-child(2)
+          font-size: 14px
+      a
+        color: #fff
+  .entry-content__
+    background-color: #eef2f6
+    padding: 
+      top: 20px 
+      bottom: 20px 
+      left: 30px 
+      right: 30px 
+
+    transition: all 0.24s ease-in-out
+    .entry-header
+      .entry-meta
+        margin-bottom: rem(25px)
+        span
+          margin-right: 10px
+          font-size: 14px
+          a
+            color: #565872
+            &:hover
+              color: $color-primary
+            i,.icon
+              margin-right: 5px
+          &:last-child
+            margin-right: 0px
+          &.xs-catagory
+            background: #fff
+            padding: 4px 15px
+            display: inline-block
+            transition: all 0.24s ease-in-out
+
+      .entry-title
+        font-size: 20px
+        margin-bottom: rem(30px)
+        a
+          color: $heading_font-color
+          text-decoration: none
+          line-height: 30px
+          &:hover
+            color: $color-primary
+    .entry-footer
+      a
+        color: #576277
+        font-size: 13px
+        letter-spacing: 1px
+        font-weight: 500
+        font-family: 'Rubik', sans-serif
+        display: inline-block
+        transition: all 0.24s ease
+        i,.icon
+          transition: all 0.24s ease
+          font-size: 16px
+          padding-left: 5px
+        &:hover
+          color: $color-primary
+          i, .icon
+            padding-left: 10px
+        text-transform: uppercase
+  
+
+  &:hover
+    box-shadow: 0px 10px 30px 0px rgba(17, 12, 79, 0.1)
+    .entry-content__
+      background-color: #fff
+      .entry-header
+        .entry-meta
+          span
+            &.xs-catagory
+              background: #eef2f6
+    .xs-post-thumbnail
+      img
+        transform: scale(1.1)
+      .xs-meta-date
+        box-shadow: none
+
+
+.blog-style-two, .blog-style-five
+  .single-home-blog
+    .entry-content__
+      background-color: #fff
+      border:
+        left: 1px solid #e8e8e8
+        right: 1px solid #e8e8e8
+        bottom: 1px solid #e8e8e8
+      p 
+        margin: 0 0 18px
+        font-family: 'Rubik', sans-serif
+        font-weight: 400
+      .entry-title
+        margin-top: rem(5px)
+        margin-bottom: 0px
+        a
+          &:hover
+            color: $color_primary_home3
+      .entry-footer
+        a
+          color: $color_primary_home3
+          font-size: 13px
+          letter-spacing: 1px
+    &:hover
+      .entry-content__
+        box-shadow: 0px 10px 30px 0px rgba(17, 12, 79, 0.10)
+        border:
+          left: 1px solid transparent
+          right: 1px solid transparent
+          bottom: 1px solid transparent
+.blog-style-five
+  .single-home-blog
+    .entry-content__
+      .case-icon
+        margin-right: 20px
+      .entry-title
+        a
+          &:hover
+            color: $color_primary_home2
+      .entry-footer
+        a
+          color: $color_primary_home2
+
+
+.blog-style-two, .blog-style-five
+  .single-home-blog
+    .entry-content__
+      background-color: #fff
+      border:
+        left: 1px solid #e8e8e8
+        right: 1px solid #e8e8e8
+        bottom: 1px solid #e8e8e8
+      .entry-title
+        margin-top: rem(5px)
+        margin-bottom: 5px
+        a
+          &:hover
+            color: $color_primary_home3
+      .entry-footer
+        a
+          color: $color_primary_home3
+          font-size: 13px
+          letter-spacing: 1px
+    &:hover
+      .entry-content__
+        box-shadow: 0px 10px 30px 0px rgba(17, 12, 79, 0.10)
+        border:
+          left: 1px solid transparent
+          right: 1px solid transparent
+          bottom: 1px solid transparent

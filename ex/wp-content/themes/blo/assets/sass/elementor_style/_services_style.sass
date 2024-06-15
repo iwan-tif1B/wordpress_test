@@ -1,0 +1,279 @@
+.break_services_heading
+  .elementskit-info-box-title
+    padding-right: 60px
+
+
+// images block thumb
+.image_block_thumb
+  .ekit-wid-con .elementskit-info-image-box.floating-style .elementskit-box-body::before, .ekit-wid-con .elementskit-info-image-box.floating-style .elementskit-box-body::after
+    display: none
+  .ekit-wid-con
+    .elementskit-info-image-box.floating-style
+      .elementskit-box-body
+        position: absolute
+        left: 0
+        border-radius: 0px
+        right: 0
+        margin-left: auto
+        margin-right: auto
+        z-index: 55
+        .elementskit-box-footer
+          margin-top: 0px
+
+
+
+// news arrow
+.news_arrow
+  .elementskit-btn i
+    padding-left: 5px
+
+
+// footer one extra background
+
+.footer-call_toaction
+  position: relative
+  z-index: 1
+  &:after
+    position: absolute
+    right: 0
+    top: 0
+    //width: calc(100% - 650px)
+    width: 66%
+    +breakpoint(xxl)
+    //width: calc(100% - 500px)
+    +breakpoint(xl)
+      width: 72%
+    +breakpoint(lg)
+      display: none
+    height: 100%
+    background: $color-primary
+    content: ''
+    z-index: -1
+
+
+// home five feature box
+
+.home-five-feature-box
+
+  padding-left: 25% !important
+  margin-bottom: 90px !important
+  +breakpoint(xxl)
+    padding-left: 20% !important
+  +breakpoint(xl)
+    padding-left: 10% !important
+  +breakpoint(lg)
+    padding-left: 50px !important
+  +breakpoint(md)
+    padding-left: 0px !important
+  +breakpoint(xs)
+    padding-left: 15px !important
+    padding-right: 15px !important
+    margin-bottom: 50px !important
+
+
+  // about icon style 
+
+
+.about_icon_overlay 
+  position: relative
+  padding-bottom: 7px
+  &:last-child
+    padding-bottm: 0px
+  &:after
+    position: absolute
+    left: 32.5px
+    top: 77px
+    width: 1px
+    height: 26px
+    content: ''
+    background: #e0e6ec
+    +breakpoint(xs)
+      display: none
+  &:last-child
+    margin-bottom: 0px
+    &:after
+      display: none
+  .elementskit-infobox 
+    overflow: visible !important
+  .elementskit-info-box-icon 
+    transition: all 0.24s ease-in-out
+    position: relative
+    z-index: 33 
+    &:after 
+      position: absolute
+      left: 7px
+      top: 0
+      width: 62px
+      height: 62px
+      background: #eff2f5
+      content: ''
+      transform: rotate(15deg)
+      z-index: -33
+      transition: all 0.24s ease-in-out
+  &:hover 
+    .elementskit-info-box-icon  
+      transform: translateY(-10px) !important
+      &:after 
+        transform: rotate(-15deg)
+  &.home_3
+    .elementskit-info-box-icon 
+      &:after 
+        background: #fef2f2
+  &.home_4
+    .elementskit-info-box-icon 
+      &:after 
+        background: #f2f4fe
+  &.home_5
+    .elementskit-info-box-icon 
+      &:after 
+        background: #fef6f2
+
+
+      
+   
+    
+
+
+
+// about two 
+.about-dance-top
+  &:hover 
+    .elementskit-info-box-icon
+      img 
+        animation: blo-danceTop  400ms ease-in-out
+
+.about-dance-top2
+  &:hover 
+    .elementskit-info-box-icon
+      img 
+        animation: blo-danceTop  0.76s ease-in-out
+        animation-fill-mode: both
+
+
+.service_icon_3_hover
+  &:hover 
+    .elementskit-info-box-icon
+      img 
+        animation: pulse  400ms ease-in-out
+
+
+// feature box animation 
+.feature-box-animation
+  &:hover 
+    .elementskit-info-box-icon 
+      animation: blo-danceBottom 400ms ease-in-out
+      animation-delay: .35s
+    .elementskit-infobox .icon-hover
+      animation: fadeInUp 400ms ease
+      
+  
+      
+// services icon animation 
+.services_icon_animation
+  .elementskit-info-box-icon  img 
+    transition: all 0.24s ease-in-out
+  &:hover 
+    .elementskit-info-box-icon  img 
+      transform: translateY(-8px) skewY(2deg)
+
+.services_icon_animation_2
+  .elementskit-info-box-icon  img 
+    transition: all 0.24s ease-in-out
+  &:hover 
+    .elementskit-info-box-icon  img 
+      animation: rotate-in-2-fwd 0.56s  ease-in-out
+      //transform: translateY(-8px) skewY(2deg)
+
+.services_icon_animation_3
+  .elementskit-info-box-icon  img 
+    transition: all 0.24s ease-in-out
+  &:hover 
+    .elementskit-info-box-icon  img 
+      animation: tada 1s ease-in-out infinite
+      animation-fill-mode: both
+  
+
+
+
+
+
+
+
+
+
+
+
+// ANIMATION 
+.blo-danceBottom
+  animation-name: blo-danceBottom
+  transform-origin: bottom
+
+@keyframes blo-danceBottom
+  16%
+    transform: skew(-14deg)
+
+  33%
+    transform: skew(12deg)
+
+  49%
+    transform: skew(-8deg)
+
+  66%
+    transform: skew(6deg)
+
+  83%
+    transform: skew(-4deg)
+
+.blo-blurInTop
+  animation-name: blo-blurInTop
+  
+@keyframes blo-blurInTop
+  from
+    transform: translateY(100%)
+    filter: blur(20px)
+    opacity: 0
+
+@-webkit-keyframes blo-rotate-in-2-fwd
+  0%
+    -webkit-transform: translateZ(-200px) rotate(-45deg)
+    transform: translateZ(-200px) rotate(-45deg)
+    opacity: 0
+
+  100%
+    -webkit-transform: translateZ(0) rotate(0)
+    transform: translateZ(0) rotate(0)
+    opacity: 1
+
+
+@keyframes blo-rotate-in-2-fwd
+  0%
+    -webkit-transform: translateZ(-200px) rotate(-45deg)
+    transform: translateZ(-200px) rotate(-45deg)
+    opacity: 0
+
+  100%
+    -webkit-transform: translateZ(0) rotate(0)
+    transform: translateZ(0) rotate(0)
+    opacity: 1
+
+
+.blo-rotate-in-2-fwd
+  -webkit-animation: rotate-in-2-fwd 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94) both
+  animation: rotate-in-2-fwd 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94) both
+
+
+
+
+
+// elementor blog hover style change 
+.blog-no-hover .ekit-wid-con .elementskit-post-image-card
+  transition: all 0.24s ease-in-out !important
+  box-shadow: none !important
+.blog-no-hover .ekit-wid-con .elementskit-post-image-card:hover 
+  transform: translateY(0)
+  box-shadow: 0px 10px 30px 0px rgba(17, 12, 79, 0.1) !important
+
+.blog-no-hover .ekit-wid-con .elementskit-post-image-card .elementskit-entry-thumb > img
+  transition: all 1s ease-out !important
+.blog-no-hover .ekit-wid-con .elementskit-post-image-card:hover .elementskit-entry-thumb > img
+  transform: scale(1.1)
